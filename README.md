@@ -1,16 +1,25 @@
-### Hi there 👋
+# Acerca de mi
+### ¿Quien Soy?
+Siempre me ha encantado la tecnologia y ahora he encontrado en el desarrollo web un gran potencial para mi y deseo seguir adentrandome mas en las entrañas de la tecnologia.
 
-<!--
-**AdielHdz/AdielHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¿A que me dedico?
+Actualmente estoy enfocado en mejorar como Desarrollador Full Stack para ello me propongo retos fechas y hago listas de prioridades. Lo hago porque es algo que me gusta y deseo ser de los mejores desarrolladores que existan.
 
-Here are some ideas to get you started:
+### Mis objetivos
+Me encantaria poder participar en proyectos que reten a los colaboradores y que nos permita mejorar constantemente, por eso mi objetivo es mantenerme a la vanguardia con las tecnologias para mejorar procesos y practicarlos constantemente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+* Javascript
+* React JS
+* Next JS
+* CSS5
+* HTML
+* Tailwind CSS
+* Redux & Redux Toolkit
+* Node JS
+* Express JS
+* Sequelize
+* PostgreSQL
+### Abierto a oportunidades
+Correo electronico: adiel_luciano1999@htomail.com
+
