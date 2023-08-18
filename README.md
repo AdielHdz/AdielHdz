@@ -12,6 +12,7 @@ Me encantaria poder participar en proyectos que reten a los colaboradores y que 
 * Javascript
 * React JS
 * Next JS
+* Figma
 * CSS5
 * HTML
 * Tailwind CSS
